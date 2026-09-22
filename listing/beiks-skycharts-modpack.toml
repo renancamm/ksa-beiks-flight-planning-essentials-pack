@@ -15,11 +15,11 @@ Inside this pack you will find:
 """
 
 [images.icon]
-url = "todo"
-sha256 = "todo"
+url = "https://raw.githubusercontent.com/renancamm/ksa-beiks-skycharts-modpack/refs/heads/main/listing/pack-icon.jpg"
+sha256 = "bf6a99215b07588315ed80dbaca70910f6876a86e82d9f1297f8c2f6a1b05a5e"
 width = 500
 height = 500
-size = todo
+size = 202704
 
 [links]
 repository = "https://github.com/renancamm/ksa-beiks-skycharts-modpack"
