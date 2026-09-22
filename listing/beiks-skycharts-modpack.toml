@@ -1,0 +1,40 @@
+spec_version = 1
+id = "BeiksSkychartsModpack"
+type = "modpack"
+name = "Beik's Sky Charts Modpack"
+authors = ["Beik"]
+abstract = "This is an example of a modpack. It contains three mods that will help you navigate the start in different ways."
+tags = ["user-interface"]
+description = """
+This is an example of a modpack. It contains three mods that will help you navigate the start in different ways!
+
+Inside this pack you will find:
+- DeltaVMap: An interactive, auto-generated delta-v subway map and transfer-window planner for Kitten Space Agency.
+- OhMyStars: This mod adds constellation lines between stars in KSA!
+- Compendium: Compendium adds a window (which may be toggled on/off via ModMenu) which provides a helpful companion to exploring the currently loaded solar system!
+"""
+
+[images.icon]
+url = "todo"
+sha256 = "todo"
+width = 500
+height = 500
+size = todo
+
+[links]
+repository = "https://github.com/renancamm/ksa-beiks-skycharts-modpack"
+
+[compatibility]
+game_min = "2026.9.7.5402"
+
+[[mods]]
+id = "DeltaVMap"
+version = "1.2.6"
+
+[[mods]]
+id = "OhMyStars"
+version = "1.2.1"
+
+[[mods]]
+id = "Compendium"
+version = "0.9.13"
