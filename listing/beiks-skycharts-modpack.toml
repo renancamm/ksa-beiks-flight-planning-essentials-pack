@@ -3,6 +3,8 @@ id = "ksa-beiks-skycharts-modpack"
 type = "modpack"
 name = "Beik's Sky Charts Modpack"
 authors = ["Beik"]
+version = "1.0.0"
+released_at = "2026-09-22T20:00:00Z"
 abstract = "This is an example of a modpack. It contains three mods that will help you navigate the stars in different ways!"
 description = """
 This is an example of a modpack. It contains three mods that will help you navigate the stars in different ways!
@@ -15,9 +17,6 @@ This is an example of a modpack. It contains three mods that will help you navig
 - Compendium: Compendium adds a window (which may be toggled on/off via ModMenu) which provides a helpful companion to exploring the currently loaded solar system!"""
 license = "MIT"
 tags = ["user-interface"]
-
-[releases]
-github = "renancamm/ksa-beiks-skycharts-modpack"
 
 [links]
 repository = "https://github.com/renancamm/ksa-beiks-skycharts-modpack"
